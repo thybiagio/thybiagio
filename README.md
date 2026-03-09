@@ -8,7 +8,7 @@
 
 ## 🛠️ Ferramentas
 
-<img src="https://img.icons8.com/color/48/power-bi.png"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img src="https://img.icons8.com/color/48/power-bi.png"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" />
 
 ---
 
